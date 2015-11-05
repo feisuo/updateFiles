@@ -1,0 +1,2 @@
+WebRoot/WEB-INF/freemarker/yrtz/mobile/lottery/lotteryDraw.ftl
+WebRoot/WEB-INF/freemarker/yrtz/mobile/regist/registPhone2.ftl
